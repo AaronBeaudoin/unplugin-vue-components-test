@@ -1,4 +1,4 @@
-# Minimal Production for [#238](https://github.com/antfu/unplugin-vue-components/issues/238#issuecomment-988544525)
+# Minimal Reproduction for [#238](https://github.com/antfu/unplugin-vue-components/issues/238#issuecomment-988544525)
 
 ## Steps to Reproduce
 
